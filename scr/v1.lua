@@ -25,7 +25,7 @@ tab:Slider("WalkSpeed", "Allows you to go faster.", 0, 100, 16,function(t)
         game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
     end
 end)
-tab:Slider("JumpPower", "Allows you to jump higher.", 0, 280, 16,function(t)
+tab:Slider("JumpPower", "Allows you to jump higher.", 0, 280, 57,function(t)
     while wait(0.1) do
         game.Players.LocalPlayer.Character.Humanoid.JumpPower = t
     end
