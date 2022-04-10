@@ -20,14 +20,220 @@ tab:Button("Collect all coins", "Automatically collects all coins. Requires a cr
     end
 Flux:Notification("Collected all coins successfully!", "Okay")
 end)
-tab:Slider("WalkSpeed", "Allows you to go faster.", 0, 100, 16,function(t)
+tab:Slider("WalkSpeed", "Allows you to go faster.", 0, 500, 16,function(t)
     while wait(0.1) do
-        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+    end
+    game:GetService("RunService").RenderStepped:wait() do
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+    end
+    game:GetService("RunService").RenderStepped:wait() do
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                    end
+                end
+            end
+        end
     end
 end)
 tab:Slider("JumpPower", "Allows you to jump higher.", 0, 280, 57,function(t)
     while wait(0.1) do
-        game.Players.LocalPlayer.Character.Humanoid.JumpPower = t
+        game:GetService("RunService").RenderStepped:wait() do
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+            end
+            game:GetService("RunService").RenderStepped:wait() do
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+                game:GetService("RunService").RenderStepped:wait() do
+                    game:GetService("RunService").RenderStepped:wait() do
+                        game:GetService("RunService").RenderStepped:wait() do
+                            game:GetService("RunService").RenderStepped:wait() do
+                                game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
+                            end
+                        end
+                    end
+                end
+            end
+        end
     end
 end)
 local misc = win:Tab("Misc", "http://www.roblox.com/asset/?id=6023426915")
